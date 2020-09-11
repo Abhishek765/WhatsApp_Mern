@@ -1,0 +1,24 @@
+.app{
+    overflow: hidden;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    /* background-color:#39c9aa; */
+    background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI0MX0&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+
+.app_body{
+    border-radius: 12px;
+    display: flex;
+    position: relative;
+    background-color:#ededed;
+    margin-top: -50px;
+    height: 90vh;
+    width:90vw;
+    box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.75);
+}
