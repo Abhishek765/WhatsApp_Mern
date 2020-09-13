@@ -12,3 +12,8 @@ for front_end(whatsapp-mern)
 for backend(whatsapp-backend)
     -cd whatsapp-backend
     - for backend you will need express(for running the server) ->"npm i express nodemon" and install nodemon for auto reload, mongoose(client that helps to connect to MongoDB) ->       "npm i mongoose", you need pusher here too -> npm i pusher.
+
+
+DEMO ScreenShot:
+
+![Demo screenshot](https://github.com/Abhishek765/WhatsApp_Mern/blob/master/Screenshot%20(403).png)
